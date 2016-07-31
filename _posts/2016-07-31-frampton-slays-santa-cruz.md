@@ -7,19 +7,21 @@ keywords: []
 description: >-
   Carl Frampton became an elite member of the boxing fraternity in the early
   hours of Sunday morning on the 31st of July. 
-datePublished: '2016-07-31T04:32:06.632Z'
-dateModified: '2016-07-31T04:31:56.143Z'
+datePublished: '2016-07-31T04:34:22.232Z'
+dateModified: '2016-07-31T04:34:15.867Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-07-31-frampton-slays-santa-cruz.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-07-31-frampton-slays-santa-cruz.md
 url: frampton-slays-santa-cruz/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cde2278d-decd-40aa-a591-4b9c3bf07dd8.jpg)
+
 Carl Frampton became an elite member of the boxing fraternity in the early hours of Sunday morning on the 31st of July. 
 
 Driven by the desire to emulate the achievement of his trainer, Frampton still possessed the wherewithal to read the situation and box intelligently. It reminded me very much of the raiding style that brought Pacquiao into very great acclaim over the last decade. It felt reminiscent of seeing Pac dancing past the longer levers of much bigger opposition to score. 
