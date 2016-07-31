@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[That is the Question]]></title>
+        <description><![CDATA[That is the Question]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 31 Jul 2016 04:32:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Frampton Slays Santa Cruz]]></title>
+            <description><![CDATA[<p>Carl Frampton became an elite member of the boxing fraternity in the early hours of Sunday morning on the 31st of July. </p>]]></description>
+            <link>undefinedframpton-slays-santa-cruz/index.html</link>
+            <guid isPermaLink="false">948ce727-00bc-455c-9fce-2c68b8d3e08a</guid>
+            <pubDate>Sun, 31 Jul 2016 04:32:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
